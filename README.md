@@ -1,1 +1,1 @@
-# CompleteJavaMasterclass Udemy class
+# CompleteJavaMasterclass Udemy
