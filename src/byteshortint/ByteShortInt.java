@@ -13,7 +13,6 @@ public class ByteShortInt {
 		byte myMaxByteValue = 127; // 128
 		byte myByteTotal = (byte) (myMinByteValue/2);
 		
-		
 		// short has a width of 16  double of byte
 		short myMinShortValue = -32768; // -32769
 		short myMaxShortValue = 32767; // 32768
@@ -23,7 +22,6 @@ public class ByteShortInt {
 		long myMinLongValue = -9_223_372_036_854_775_808L; // -9_223_372_036_854_775_809L
 		long myMaxLongValue = 9_223_372_036_854_775_807L; // 9_223_372_036_854_775_808L
 		long myLongTotal = (myMinLongValue/2);
-		
 		
 		System.out.println(myMinIntValue);
 		System.out.println(myMaxIntValue);
